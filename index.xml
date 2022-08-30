@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<products>
+	<heading>Products Display </heading>
+	<product>
+		<id>Product id: LTI123</id>
+		<name>Product Name: Laptop</name>
+		<company>Product Company: DELL</company>
+		<location>Product Origin: Hyderabad</location>
+		<price>Product Price: 30000</price>
+	</product>
+	<product>
+		<id>Product id: LTI426</id>
+		<name>Product Name: Mobile</name>
+		<company>Product Company: Apple</company>
+		<location>Product Origin: California</location>
+		<price>Product Price: 150000</price>
+	</product>
+    <product>
+		<id>Product id: LTI651</id>
+		<name>Product Name: Server</name>
+		<company>Product Company: GoDaddy</company>
+		<location>Product Origin: Bangalore</location>
+		<price>Product Price: 450000</price>
+	</product>
+    <product>
+		<id>Product id: LTI865</id>
+		<name>Product Name: Projector</name>
+		<company>Product Company: Sony</company>
+		<location>Product Origin: Chennai</location>
+		<price>Product Price: 50000</price>
+	</product>
+    <product>
+		<id>Product id: LTI653</id>
+		<name>Product Name: Printer</name>
+		<company>Product Company: Panasonic</company>
+		<location>Product Origin: Mumbai</location>
+		<price>Product Price: 20000</price>
+	</product>
+</products>
